@@ -6,4 +6,4 @@ To win the game, a player needs to transfer all of their 19 pieces from their st
 
 Total time available for my agent to play the whole game is 600 seconds/game. My agent played 9 full games against minimax agent with depth 3 and won 8 out of 9 games.
 
-Strategies deployed to win within given time: a) alpha/beta pruning, b) precomputed the optimized state that gets all pieces out of zone with least moves c) only considered moves that move toward opponent's zone
+Strategies deployed to win within given time: a) alpha/beta pruning, b) precomputed the optimized state that gets all pieces out of zone with least moves, c) only considered moves that move toward opponent's zone
